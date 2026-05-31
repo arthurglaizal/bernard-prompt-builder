@@ -1,6 +1,10 @@
 # Bernard - Prompt Builder
 
-![Bernard preview](public/bernard-og-image.png)
+<img
+  src="public/bernard-og-image.png"
+  alt="Bernard preview"
+  width="520"
+/>
 
 **Bernard** is a prompt-building assistant designed to help users clarify, structure, and save reusable prompts for AI tools.
 
@@ -37,7 +41,7 @@ This repository contains two public versions of the Bernard prompt:
 
 ---
 
-## Main modes
+## Modes
 
 Bernard works through three main modes.
 
@@ -84,7 +88,7 @@ It can be used to:
 
 ---
 
-## Suggested repository structure
+## Rpository structure
 
 ```txt
 bernard-prompt/
