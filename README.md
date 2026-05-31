@@ -1,10 +1,10 @@
-# Bernard - Prompt Builder
-
 <img
   src="public/bernard-og-image.png"
   alt="Bernard preview"
   width="385"
 />
+
+# Bernard - Prompt Builder
 
 **Bernard** is a prompt-building assistant designed to help users clarify, structure, and save reusable prompts for AI tools.
 
