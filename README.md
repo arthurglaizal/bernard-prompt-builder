@@ -3,7 +3,7 @@
 <img
   src="public/bernard-og-image.png"
   alt="Bernard preview"
-  width="520"
+  width="385"
 />
 
 **Bernard** is a prompt-building assistant designed to help users clarify, structure, and save reusable prompts for AI tools.
