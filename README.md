@@ -88,7 +88,7 @@ It can be used to:
 
 ---
 
-## Rpository structure
+## Repository structure
 
 ```txt
 bernard-prompt/
